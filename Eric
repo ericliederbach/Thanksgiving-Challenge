@@ -1,0 +1,9 @@
+###
+python2.7 example…
+# Track Turkey Calories
+turkey_oz = 8
+turkey_calories_per_oz = 29.5
+print("You have eaten %i calories of turkey" % (turkey_oz * turkey_calories_per_oz))
+This uses two variables, weight (oz) and calories per oz, and multiplies them to display the total calories in a given amount of turkey.
+My “Thanksgiving Challenge” is to allow the user (me) to have a tool to help me figure out how many calories I need to run off on Friday. I would like the program to ask for user input for the amount of turkey eaten so I can keep using the program as the night goes on. Feel free to add to it as you see fit, and to test your program out on Thanksgiving!
+###
